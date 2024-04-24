@@ -23,9 +23,9 @@ const Body = () => (
                 <div className="content-menu-container">
                   <h1 className="heading-body">Content</h1>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam.
                   </p>
                 </div>
                 <div className="right-menu-container">
@@ -73,9 +73,9 @@ const Body = () => (
               <div className="content-menu-container-true">
                 <h1 className="heading-body">Content</h1>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam.
                 </p>
               </div>
             )}
@@ -95,9 +95,9 @@ const Body = () => (
                 <div className="content-menu-container">
                   <h1 className="heading-body">Content</h1>
                   <p>
-                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam.
                   </p>
                 </div>
               </div>
