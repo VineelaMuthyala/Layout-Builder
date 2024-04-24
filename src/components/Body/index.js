@@ -47,7 +47,7 @@ const Body = () => (
                     <li>Item 4</li>
                   </ul>
                 </div>
-                <div className="content-menu-container-false"></div>
+                <div className="content-menu-container-false">.</div>
                 <div className="right-menu-container">
                   <h1 className="heading-body">Right Navbar Menu</h1>
                   <div className="right-box">Ad 1</div>
